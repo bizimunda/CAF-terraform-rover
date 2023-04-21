@@ -5,9 +5,4 @@ resource_groups = {
       env2 = "standalone2"
     }
   }
-  vm1_region1 = {
-    name = "example-virtual-machine-rg2"
-    tags = {
-      env = "standalone3"
-    }
-  }
+}
