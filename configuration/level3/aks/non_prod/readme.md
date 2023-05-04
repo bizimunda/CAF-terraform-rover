@@ -45,7 +45,7 @@ rover \
 #   -env cafterraform2 \
 #   -level level3 \
 #   -w tfstate \
-#   -a apply
+#   -a destroy
 
 
 

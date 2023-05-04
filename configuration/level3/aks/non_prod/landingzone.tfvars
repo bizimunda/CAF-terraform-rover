@@ -10,4 +10,11 @@ landingzone = {
       level     = "lower"
     }
   }
+  # tfstates = {
+  #   launchpad = {
+  #     tfstate   = "launchpad"
+  #     workspace = "tfstate"
+  #     level     = "lower"
+  #   }
+  # }
 }
